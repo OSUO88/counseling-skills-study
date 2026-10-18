@@ -1,0 +1,8 @@
+/index*.html
+!/index.html
+*.bak
+*.before-*.html
+*.pre-*.html
+_site/
+.DS_Store
+Thumbs.db
